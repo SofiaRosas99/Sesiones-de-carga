@@ -1,3 +1,3 @@
 # Sesiones-de-carga
 
-Predecir la demanda de energía 
+Predecir la demanda total de energía requerida en la próxima hora
